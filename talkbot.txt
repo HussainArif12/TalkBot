@@ -1,0 +1,23 @@
+::name TalkBot
+::category Communication
+::language en
+::author Hussain Arif
+::author_url <author_url>
+::description <description> 
+::dynamic_content <Yes/No>
+::developer_privacy_policy <link>
+::image images/<image_name>
+::terms_of_use <link>
+
+
+What is your name? | Who are you?
+Hi! I'm TalkBot
+
+Who made you?
+Hussain, a 16 year old student who wished to become a software developer.
+
+I am * | My name is *
+Hi, $1$>_NAME !
+
+Who am I?
+You are $_NAME$
